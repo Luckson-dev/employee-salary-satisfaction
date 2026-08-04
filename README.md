@@ -39,8 +39,6 @@ Ce projet a été réalisé dans le cadre de mon **apprentissage du Machine Lear
 
 4. **Évaluation :** Comparaison des modèles avec des métriques adaptées (**Accuracy, Précision, Rappel, F1-Score, ROC-AUC**).
 
----
-
 ## Installation et Utilisation
 
 ### Préréquis
@@ -50,30 +48,28 @@ Assure-toi d'avoir **Python 3.8+** installé sur ta machine.
 ### 1. Cloner le dépôt
 
 ```bash
-git clone [https://github.com/Luckson-dev/employee-salary-satisfaction.git](https://github.com/Luckson-dev/employee-salary-satisfaction.git)
-cd employee-salary-satisfaction
+git clone https://github.com/Luckson-dev/employee-salary-satisfaction.git
 
+cd employee-salary-satisfaction
 ```
 
 ### 2. Créer un environnement virtuel
 
 ```bash
 python -m venv venv
-# Sur Windows :
-venv\Scripts\activate
-# Sur Mac/Linux :
-source venv/bin/activate
 
+# Activation sur Windows :
+venv\Scripts\activate
+
+# Activation sur Mac/Linux :
+source venv/bin/activate
 ```
 
 ### 3. Installer les dépendances
 
 ```bash
 pip install -r requirements.txt
-
 ```
-
----
 
 ## Résultats obtenus
 
@@ -84,8 +80,6 @@ pip install -r requirements.txt
 | XGBoost | 0.XX | 0.XX | 0.XX |
 
 *(Le modèle **Random Forest** a donné les meilleurs résultats globaux sur le jeu de test.)*
-
----
 
 ## Contribution
 
