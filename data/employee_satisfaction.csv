@@ -1,0 +1,511 @@
+ID_Employe,Age,Sexe,Departement,Annees_Experience,Niveau_Etudes,Salaire_Mensuel_BIF,Travail_A_Distance,Heures_Supplementaires,Heures_Formation,Anciennete_Entreprise,Nombre_Promotions,Evaluation_Performance,Equilibre_Vie_Travail,Satisfaction_Salaire,Nombre_Absences,Satisfait
+1,58.0,Homme,Marketing,12.0,Licence,2804177.0,Oui,13.0,95.0,8.0,0.0,3.0,Bon,Insatisfait,16.0,Oui
+2,48.0,Femme,Marketing,,Master,6000000.0,Non,12.0,48.0,10.0,4.0,1.0,Moyen,,8.0,Non
+3,34.0,Femme,Administration,16.0,,4147951.0,Non,6.0,6.0,1.0,0.0,5.0,Très mauvais,Neutre,13.0,Non
+4,27.0,Femme,Production,3.0,Licence,896874.0,Non,14.0,109.0,2.0,0.0,5.0,Moyen,Très insatisfait,16.0,Non
+5,,Femme,Administration,11.0,Master,3062453.0,Non,18.0,,11.0,2.0,3.0,,Très satisfait,28.0,Oui
+6,58.0,Femme,Production,18.0,Licence,2658571.0,Non,34.0,91.0,11.0,2.0,2.0,Très mauvais,Insatisfait,30.0,Non
+7,38.0,Homme,Production,11.0,Secondaire,1697179.0,Non,,53.0,8.0,1.0,3.0,,Satisfait,3.0,Oui
+8,42.0,Homme,Commercial,8.0,Secondaire,1635366.0,Non,34.0,104.0,4.0,1.0,5.0,Moyen,Satisfait,17.0,Oui
+9,30.0,Homme,Commercial,6.0,Licence,1890079.0,Oui,18.0,86.0,1.0,1.0,3.0,Bon,Insatisfait,26.0,Non
+10,30.0,Femme,Ressources Humaines,11.0,Licence,2414085.0,Non,19.0,44.0,5.0,0.0,1.0,Bon,Satisfait,19.0,Oui
+11,43.0,Homme,Support Client,13.0,,2280917.0,Non,35.0,22.0,,0.0,3.0,Mauvais,Très insatisfait,23.0,Non
+12,55.0,Femme,Support Client,30.0,Licence,4040781.0,Non,34.0,,11.0,1.0,2.0,Excellent,Neutre,23.0,Oui
+13,21.0,Femme,Informatique,35.0,Licence,6000000.0,Non,31.0,27.0,15.0,0.0,1.0,Mauvais,Très insatisfait,14.0,Non
+14,43.0,Femme,Support Client,25.0,Master,4945462.0,Non,39.0,106.0,20.0,4.0,4.0,Moyen,Très satisfait,10.0,Oui
+15,22.0,Homme,Commercial,4.0,Master,1567736.0,Non,,110.0,3.0,1.0,5.0,Moyen,Très satisfait,11.0,Oui
+16,,Femme,Ressources Humaines,4.0,Licence,1262483.0,Non,16.0,56.0,1.0,0.0,5.0,Bon,Insatisfait,8.0,Oui
+17,21.0,Homme,Ressources Humaines,2.0,Master,1157946.0,Non,6.0,25.0,1.0,1.0,3.0,Très mauvais,Insatisfait,12.0,Non
+18,43.0,Femme,Production,11.0,Master,2721797.0,Oui,0.0,24.0,0.0,0.0,1.0,Moyen,Satisfait,14.0,Oui
+19,49.0,Homme,Administration,24.0,Licence,4720236.0,Non,,53.0,20.0,3.0,4.0,Bon,Insatisfait,26.0,Oui
+20,,Homme,Informatique,20.0,Master,5771090.0,Non,31.0,28.0,2.0,0.0,1.0,Mauvais,Très satisfait,14.0,Non
+21,21.0,Femme,Production,3.0,Licence,1005815.0,Non,35.0,82.0,3.0,2.0,5.0,Bon,Satisfait,27.0,Oui
+22,40.0,Homme,Administration,20.0,Master,4505087.0,Oui,12.0,96.0,1.0,1.0,1.0,Excellent,Neutre,4.0,Oui
+23,52.0,Homme,Support Client,,Licence,3112567.0,Non,5.0,35.0,8.0,2.0,4.0,Excellent,Satisfait,22.0,Oui
+24,31.0,Femme,Production,8.0,Licence,1660885.0,Non,13.0,13.0,,0.0,3.0,Très mauvais,Neutre,18.0,Non
+25,41.0,Femme,Finance,6.0,Licence,2081193.0,Oui,36.0,77.0,6.0,3.0,2.0,Mauvais,Très satisfait,25.0,Oui
+26,44.0,,Support Client,12.0,Master,2864731.0,Non,14.0,,1.0,0.0,1.0,Moyen,Très satisfait,19.0,Non
+27,46.0,Femme,Administration,20.0,Master,4947611.0,Non,3.0,29.0,10.0,4.0,2.0,Moyen,Insatisfait,25.0,Non
+28,47.0,Femme,Informatique,9.0,Licence,2803784.0,Non,39.0,91.0,8.0,2.0,5.0,Mauvais,Très insatisfait,24.0,Non
+29,35.0,Homme,Administration,6.0,Licence,1244979.0,Non,15.0,16.0,6.0,0.0,3.0,Mauvais,Très satisfait,25.0,Non
+30,34.0,Homme,Production,13.0,Master,2871628.0,Non,27.0,66.0,5.0,2.0,3.0,Excellent,Très satisfait,25.0,Oui
+31,22.0,Homme,Production,1.0,Secondaire,393434.0,Non,15.0,79.0,0.0,1.0,1.0,Excellent,Très insatisfait,13.0,Oui
+32,56.0,Femme,Marketing,4.0,Licence,1438257.0,Non,3.0,109.0,4.0,2.0,3.0,Très mauvais,Satisfait,27.0,Non
+33,26.0,Femme,Informatique,2.0,Master,,Oui,25.0,29.0,2.0,1.0,1.0,Moyen,Neutre,16.0,Non
+34,,,Recherche et Développement,22.0,Licence,5329119.0,Oui,27.0,115.0,14.0,,1.0,Moyen,Insatisfait,17.0,Non
+35,28.0,Homme,Support Client,10.0,Secondaire,,Non,31.0,92.0,10.0,4.0,2.0,Mauvais,Très satisfait,20.0,Oui
+36,58.0,Femme,Ressources Humaines,10.0,Licence,2510329.0,Oui,1.0,44.0,2.0,0.0,3.0,Bon,Insatisfait,2.0,Oui
+37,37.0,Homme,Informatique,17.0,,4275775.0,Non,30.0,78.0,0.0,0.0,,Bon,Très satisfait,1.0,Oui
+38,23.0,Femme,Ressources Humaines,3.0,Doctorat,1418412.0,Non,2.0,109.0,3.0,1.0,2.0,Bon,,0.0,Oui
+39,44.0,Homme,Informatique,,Licence,2643409.0,Non,7.0,119.0,1.0,,4.0,Bon,Satisfait,9.0,Oui
+40,33.0,Femme,Informatique,9.0,Master,3407046.0,Non,23.0,,1.0,1.0,2.0,Moyen,Insatisfait,18.0,Non
+41,,Homme,Administration,9.0,Licence,2192925.0,,14.0,50.0,2.0,0.0,2.0,Bon,,16.0,Oui
+42,,Femme,Informatique,11.0,Licence,3025794.0,Non,30.0,101.0,7.0,3.0,1.0,Moyen,Satisfait,,Oui
+43,21.0,Femme,Marketing,,Secondaire,352710.0,Non,8.0,105.0,0.0,1.0,5.0,Bon,Insatisfait,0.0,Oui
+44,39.0,Femme,,5.0,Licence,1729469.0,Oui,38.0,46.0,3.0,2.0,5.0,Moyen,Neutre,11.0,Non
+45,47.0,Femme,Production,6.0,Secondaire,963979.0,Non,1.0,52.0,6.0,0.0,5.0,Mauvais,Neutre,16.0,Non
+46,26.0,Femme,,7.0,Master,1963453.0,Non,7.0,63.0,6.0,2.0,2.0,Mauvais,Très insatisfait,23.0,Non
+47,27.0,Femme,Ressources Humaines,9.0,Master,2990105.0,Non,6.0,117.0,5.0,0.0,1.0,Moyen,Satisfait,30.0,Non
+48,54.0,Homme,Production,8.0,Licence,1469248.0,Non,,115.0,8.0,3.0,3.0,,Neutre,2.0,Oui
+49,33.0,Femme,Logistique,1.0,Master,783169.0,Oui,15.0,37.0,1.0,1.0,2.0,Mauvais,Satisfait,10.0,Oui
+50,36.0,Femme,Recherche et Développement,1.0,Master,970891.0,Non,34.0,63.0,1.0,0.0,2.0,Moyen,Neutre,16.0,Non
+51,55.0,Homme,Recherche et Développement,4.0,Licence,1076223.0,Non,29.0,86.0,0.0,0.0,1.0,Moyen,Neutre,22.0,Non
+52,59.0,Femme,Ressources Humaines,28.0,Licence,5168567.0,Non,9.0,88.0,7.0,0.0,4.0,Bon,Insatisfait,25.0,Oui
+53,23.0,Femme,Ressources Humaines,4.0,Licence,1165604.0,Non,37.0,105.0,2.0,1.0,2.0,Mauvais,Neutre,2.0,Non
+54,21.0,Femme,Recherche et Développement,1.0,Licence,873784.0,Non,,,1.0,1.0,4.0,Excellent,Neutre,7.0,Oui
+55,25.0,Homme,Logistique,2.0,Secondaire,519448.0,Non,4.0,21.0,1.0,0.0,4.0,Bon,Satisfait,19.0,Oui
+56,23.0,Homme,Informatique,4.0,Secondaire,918336.0,Non,28.0,80.0,0.0,0.0,5.0,Bon,Satisfait,3.0,Oui
+57,48.0,Femme,Support Client,0.0,Licence,359760.0,Non,38.0,81.0,0.0,1.0,1.0,Bon,,20.0,Non
+58,37.0,Femme,,19.0,Licence,5208630.0,Non,33.0,112.0,14.0,2.0,4.0,Très mauvais,Très insatisfait,21.0,Non
+59,45.0,Homme,Production,16.0,Master,3369738.0,Oui,22.0,40.0,5.0,0.0,1.0,Moyen,Insatisfait,6.0,Non
+60,53.0,Femme,Administration,6.0,Master,2230929.0,Non,4.0,73.0,6.0,1.0,5.0,,Insatisfait,13.0,Oui
+61,29.0,Femme,Production,8.0,Master,2345027.0,Non,29.0,9.0,4.0,2.0,1.0,Très mauvais,Insatisfait,13.0,Non
+62,55.0,Homme,Administration,3.0,Licence,962412.0,Oui,5.0,56.0,2.0,1.0,2.0,Moyen,Neutre,3.0,Oui
+63,33.0,Femme,Logistique,3.0,Master,1066341.0,Oui,3.0,6.0,0.0,0.0,4.0,Bon,Insatisfait,15.0,Non
+64,50.0,Homme,Administration,5.0,Secondaire,1049551.0,Non,28.0,111.0,4.0,2.0,,Moyen,Insatisfait,23.0,Non
+65,34.0,Homme,Ressources Humaines,11.0,Secondaire,1629767.0,Non,22.0,49.0,4.0,1.0,3.0,Excellent,Très insatisfait,28.0,Non
+66,27.0,Homme,Support Client,,Licence,899542.0,Non,5.0,101.0,5.0,0.0,1.0,Mauvais,Très insatisfait,21.0,Non
+67,33.0,Femme,Support Client,6.0,Licence,1265788.0,Non,31.0,90.0,3.0,1.0,4.0,Bon,Insatisfait,29.0,Oui
+68,42.0,Homme,Ressources Humaines,9.0,Licence,2085536.0,Oui,17.0,51.0,3.0,2.0,5.0,Moyen,Insatisfait,0.0,Oui
+69,59.0,Homme,,25.0,Master,6000000.0,Oui,14.0,32.0,11.0,3.0,5.0,Bon,Neutre,16.0,Oui
+70,40.0,Homme,Logistique,18.0,Licence,3273162.0,Oui,39.0,0.0,,4.0,4.0,Moyen,Neutre,24.0,Non
+71,35.0,Femme,Marketing,6.0,Licence,1557311.0,Oui,31.0,107.0,6.0,0.0,2.0,Moyen,Insatisfait,9.0,Non
+72,37.0,Femme,Marketing,2.0,Licence,1023963.0,Oui,8.0,52.0,0.0,1.0,2.0,Bon,Neutre,21.0,Oui
+73,43.0,Homme,Production,12.0,Master,3296199.0,Non,36.0,59.0,2.0,1.0,5.0,Moyen,Neutre,15.0,Oui
+74,45.0,Homme,Recherche et Développement,12.0,Master,4121423.0,Non,9.0,33.0,11.0,0.0,,,Insatisfait,15.0,Oui
+75,44.0,Femme,Production,,,3029565.0,Oui,19.0,3.0,12.0,5.0,4.0,Moyen,Très insatisfait,25.0,Non
+76,60.0,Homme,Recherche et Développement,27.0,Licence,5451154.0,Oui,5.0,16.0,14.0,1.0,2.0,Bon,Neutre,7.0,Oui
+77,48.0,Homme,Finance,29.0,Licence,6000000.0,Non,2.0,3.0,17.0,3.0,5.0,Moyen,,28.0,Oui
+78,34.0,Homme,Administration,,Secondaire,1280531.0,Oui,10.0,42.0,2.0,1.0,2.0,Excellent,Insatisfait,6.0,Oui
+79,20.0,Homme,Recherche et Développement,0.0,Licence,578366.0,,16.0,117.0,0.0,0.0,5.0,Moyen,Insatisfait,27.0,Non
+80,44.0,Homme,Ressources Humaines,8.0,Licence,1566815.0,Non,31.0,89.0,0.0,0.0,1.0,Moyen,Très satisfait,5.0,Oui
+81,26.0,Homme,Production,6.0,Secondaire,1299653.0,Non,3.0,3.0,5.0,2.0,3.0,Bon,Insatisfait,15.0,Non
+82,28.0,Homme,Logistique,0.0,Licence,,Non,3.0,0.0,0.0,1.0,1.0,Bon,Insatisfait,19.0,Non
+83,43.0,Femme,Administration,2.0,Licence,1012407.0,Oui,16.0,70.0,2.0,1.0,5.0,Bon,Très satisfait,15.0,Oui
+84,20.0,Homme,Finance,0.0,Licence,593670.0,Non,40.0,93.0,0.0,1.0,3.0,Excellent,Satisfait,6.0,Oui
+85,27.0,Femme,Recherche et Développement,8.0,Licence,2273113.0,,18.0,49.0,6.0,3.0,,Moyen,Neutre,8.0,Oui
+86,43.0,Femme,Finance,16.0,Licence,3705437.0,Non,4.0,72.0,1.0,1.0,5.0,Mauvais,Neutre,13.0,Non
+87,30.0,Homme,Logistique,8.0,Licence,1779815.0,Oui,31.0,60.0,7.0,3.0,5.0,Très mauvais,Insatisfait,10.0,Non
+88,36.0,Femme,Marketing,0.0,Secondaire,329568.0,Non,21.0,34.0,0.0,1.0,2.0,Bon,Très insatisfait,25.0,Non
+89,27.0,Homme,Support Client,5.0,Licence,868188.0,Non,,7.0,5.0,,5.0,Bon,Satisfait,30.0,Oui
+90,54.0,Femme,Logistique,5.0,Master,1786805.0,Non,34.0,23.0,5.0,2.0,4.0,Mauvais,Très insatisfait,13.0,Non
+91,54.0,Homme,Commercial,31.0,Master,6000000.0,Non,21.0,,13.0,,5.0,Mauvais,Neutre,6.0,Oui
+92,52.0,Homme,Logistique,20.0,Master,,Non,0.0,35.0,3.0,1.0,4.0,Très mauvais,Très satisfait,0.0,Oui
+93,24.0,Homme,Finance,5.0,Licence,1482042.0,,19.0,49.0,4.0,2.0,5.0,Bon,Très satisfait,25.0,Oui
+94,58.0,Femme,Ressources Humaines,20.0,Master,5300668.0,Non,21.0,115.0,7.0,0.0,2.0,Moyen,Insatisfait,24.0,Non
+95,60.0,Homme,Production,10.0,Licence,2281796.0,Non,10.0,42.0,,1.0,4.0,Moyen,Satisfait,12.0,Oui
+96,47.0,Femme,Ressources Humaines,27.0,Master,6000000.0,Non,12.0,26.0,18.0,6.0,1.0,Moyen,Neutre,19.0,Oui
+97,26.0,Homme,Finance,4.0,Licence,1171667.0,Non,2.0,31.0,2.0,0.0,4.0,Bon,Très satisfait,30.0,Oui
+98,28.0,Femme,Production,3.0,Secondaire,746913.0,Non,8.0,77.0,3.0,2.0,,,Insatisfait,2.0,Oui
+99,27.0,Homme,,2.0,Secondaire,709113.0,Non,11.0,120.0,0.0,0.0,4.0,Bon,Très insatisfait,19.0,Oui
+100,31.0,Femme,Support Client,2.0,Master,809365.0,Non,22.0,17.0,0.0,1.0,5.0,Mauvais,Insatisfait,3.0,Non
+101,53.0,Homme,Administration,19.0,Licence,3601750.0,Non,13.0,27.0,7.0,0.0,5.0,Moyen,Neutre,,Non
+102,52.0,Homme,,17.0,Licence,3717969.0,Non,32.0,28.0,13.0,2.0,2.0,Bon,Neutre,25.0,Non
+103,42.0,Homme,Recherche et Développement,14.0,,4057046.0,Non,17.0,15.0,,1.0,3.0,Excellent,Satisfait,10.0,Oui
+104,43.0,Homme,,,Master,2789892.0,Non,40.0,98.0,5.0,0.0,5.0,,Satisfait,1.0,Non
+105,56.0,Femme,Finance,13.0,Master,,Non,8.0,46.0,6.0,2.0,1.0,Très mauvais,Insatisfait,13.0,Non
+106,54.0,Homme,Production,14.0,Master,3358859.0,Oui,22.0,58.0,5.0,0.0,2.0,Très mauvais,Neutre,11.0,Non
+107,59.0,Femme,Informatique,30.0,Licence,6000000.0,Non,9.0,30.0,15.0,,4.0,Moyen,Très insatisfait,29.0,Non
+108,41.0,Homme,Logistique,0.0,Licence,395576.0,Non,18.0,3.0,0.0,0.0,4.0,Bon,Très satisfait,16.0,Oui
+109,46.0,Femme,Informatique,20.0,Licence,4789735.0,Oui,4.0,36.0,18.0,1.0,1.0,Très mauvais,Très satisfait,11.0,Non
+110,54.0,Homme,Commercial,2.0,Master,1178288.0,Non,22.0,16.0,1.0,1.0,5.0,Moyen,Très satisfait,25.0,Oui
+111,20.0,Homme,Recherche et Développement,2.0,Licence,889900.0,Non,29.0,38.0,2.0,0.0,2.0,Moyen,,11.0,Non
+112,54.0,Femme,Support Client,10.0,Licence,1976461.0,Oui,24.0,47.0,2.0,0.0,1.0,Très mauvais,Insatisfait,0.0,Non
+113,56.0,Homme,Marketing,11.0,,1961394.0,Non,27.0,45.0,9.0,3.0,5.0,Moyen,Très insatisfait,12.0,Non
+114,33.0,Homme,Commercial,9.0,Secondaire,1515528.0,Non,33.0,89.0,2.0,0.0,2.0,Moyen,Satisfait,13.0,Oui
+115,22.0,Femme,Marketing,3.0,Licence,994628.0,Non,24.0,47.0,0.0,0.0,4.0,Moyen,Très satisfait,23.0,Oui
+116,,Femme,Marketing,0.0,Secondaire,381564.0,Non,9.0,38.0,0.0,0.0,2.0,Bon,Insatisfait,29.0,Non
+117,24.0,Homme,,,Licence,573746.0,Oui,13.0,104.0,1.0,1.0,3.0,Moyen,Très insatisfait,1.0,Non
+118,45.0,Homme,Ressources Humaines,27.0,Licence,5400227.0,Oui,29.0,3.0,19.0,6.0,2.0,Mauvais,Satisfait,11.0,Oui
+119,33.0,Femme,Informatique,3.0,Licence,1428979.0,Non,40.0,29.0,,0.0,3.0,Excellent,Très insatisfait,25.0,Non
+120,58.0,Homme,Finance,25.0,Licence,5580878.0,Non,24.0,29.0,6.0,,2.0,Bon,Neutre,20.0,Oui
+121,46.0,Homme,Administration,7.0,Secondaire,841933.0,Non,13.0,21.0,5.0,0.0,3.0,Bon,Satisfait,27.0,Oui
+122,28.0,Homme,Marketing,9.0,Master,3184705.0,Oui,34.0,74.0,8.0,0.0,4.0,Très mauvais,Insatisfait,15.0,Non
+123,34.0,Femme,Recherche et Développement,4.0,Licence,1428214.0,Non,33.0,65.0,2.0,0.0,,Très mauvais,Très insatisfait,3.0,Non
+124,34.0,Femme,Commercial,,,2151792.0,Oui,9.0,107.0,6.0,0.0,3.0,Très mauvais,Satisfait,,Oui
+125,45.0,Homme,Ressources Humaines,3.0,Master,1491327.0,Oui,34.0,11.0,0.0,0.0,3.0,Mauvais,Satisfait,1.0,Non
+126,32.0,Homme,Marketing,10.0,Master,3816120.0,Non,10.0,93.0,2.0,1.0,4.0,Moyen,Très satisfait,9.0,Oui
+127,51.0,Homme,Ressources Humaines,16.0,,3820482.0,Non,10.0,35.0,14.0,2.0,3.0,Excellent,Neutre,8.0,Oui
+128,58.0,Femme,Ressources Humaines,8.0,Licence,1858568.0,Non,20.0,17.0,3.0,2.0,1.0,,Très insatisfait,22.0,Non
+129,51.0,Homme,Marketing,32.0,Doctorat,6000000.0,Non,20.0,89.0,13.0,5.0,4.0,Moyen,Satisfait,14.0,Oui
+130,23.0,Homme,Production,4.0,Secondaire,683932.0,Non,21.0,52.0,4.0,2.0,1.0,Bon,,12.0,Oui
+131,49.0,Femme,Logistique,19.0,Licence,3120899.0,Non,6.0,70.0,3.0,2.0,,Mauvais,Insatisfait,22.0,Non
+132,56.0,Homme,,12.0,Master,3790667.0,Non,16.0,0.0,7.0,0.0,3.0,Bon,Satisfait,,Oui
+133,,Femme,Finance,,Doctorat,6000000.0,Non,1.0,57.0,0.0,0.0,1.0,Bon,,29.0,Non
+134,58.0,Homme,Finance,28.0,Master,6000000.0,Non,11.0,89.0,8.0,2.0,3.0,Bon,Insatisfait,15.0,Oui
+135,34.0,Homme,Recherche et Développement,12.0,Secondaire,2104638.0,Non,17.0,86.0,0.0,1.0,4.0,Excellent,Très insatisfait,27.0,Non
+136,48.0,Homme,Production,13.0,Licence,2174180.0,Oui,10.0,89.0,7.0,0.0,3.0,Moyen,Neutre,1.0,Oui
+137,55.0,Femme,Finance,34.0,Doctorat,6000000.0,Non,15.0,108.0,24.0,6.0,1.0,Moyen,Neutre,19.0,Oui
+138,32.0,Femme,Ressources Humaines,12.0,Licence,2841260.0,Oui,,5.0,10.0,1.0,1.0,Excellent,Neutre,19.0,Oui
+139,51.0,Femme,Support Client,5.0,Master,1570835.0,Non,34.0,69.0,4.0,1.0,3.0,Bon,,26.0,Oui
+140,26.0,Homme,Commercial,1.0,Master,885831.0,Non,25.0,43.0,0.0,,2.0,Moyen,Très satisfait,13.0,Oui
+141,41.0,Femme,Informatique,18.0,Licence,4958198.0,,15.0,71.0,8.0,1.0,4.0,Excellent,Insatisfait,,Oui
+142,47.0,Homme,Finance,4.0,Licence,1486826.0,Oui,5.0,23.0,2.0,0.0,4.0,Très mauvais,Très insatisfait,22.0,Non
+143,21.0,Homme,Recherche et Développement,2.0,Licence,973578.0,Non,11.0,85.0,1.0,0.0,3.0,Excellent,Très insatisfait,11.0,Oui
+144,25.0,Femme,Support Client,0.0,Secondaire,300558.0,Non,12.0,18.0,0.0,1.0,2.0,Très mauvais,Insatisfait,7.0,Non
+145,47.0,Homme,Marketing,,Master,873218.0,Oui,3.0,100.0,1.0,,1.0,Moyen,Satisfait,,Oui
+146,47.0,Homme,Logistique,9.0,Licence,1734020.0,Non,38.0,17.0,8.0,1.0,5.0,Bon,Satisfait,3.0,Oui
+147,39.0,Homme,Recherche et Développement,17.0,Master,4637163.0,Non,1.0,94.0,3.0,1.0,5.0,Moyen,Satisfait,13.0,Oui
+148,49.0,Homme,Ressources Humaines,26.0,Licence,4632481.0,Non,25.0,100.0,26.0,4.0,3.0,Moyen,Insatisfait,15.0,Oui
+149,30.0,Homme,Logistique,12.0,Doctorat,3799363.0,Non,26.0,29.0,3.0,1.0,2.0,Moyen,Neutre,18.0,Non
+150,47.0,Femme,Commercial,4.0,Licence,1478741.0,Non,26.0,120.0,3.0,0.0,,Excellent,Neutre,1.0,Oui
+151,44.0,Homme,Commercial,22.0,Secondaire,3172735.0,Non,14.0,41.0,7.0,3.0,4.0,Bon,Très insatisfait,11.0,Oui
+152,58.0,Femme,Production,32.0,Secondaire,3379506.0,Non,7.0,32.0,1.0,0.0,1.0,Bon,Satisfait,28.0,Oui
+153,52.0,Femme,Administration,0.0,Licence,563371.0,Non,,73.0,0.0,1.0,2.0,Bon,Très satisfait,13.0,Oui
+154,20.0,Homme,Production,1.0,Licence,562320.0,Oui,39.0,100.0,0.0,1.0,5.0,Bon,Neutre,5.0,Oui
+155,46.0,Homme,Support Client,14.0,Master,2412113.0,Oui,,11.0,12.0,0.0,1.0,Moyen,Satisfait,12.0,Oui
+156,32.0,Homme,Logistique,0.0,Secondaire,319192.0,Oui,12.0,117.0,0.0,1.0,1.0,Moyen,Neutre,3.0,Oui
+157,60.0,Femme,Administration,10.0,Secondaire,1499660.0,Non,16.0,93.0,5.0,2.0,3.0,Bon,Insatisfait,21.0,Oui
+158,22.0,Homme,Marketing,4.0,,1572236.0,Non,16.0,26.0,0.0,0.0,2.0,Moyen,Satisfait,17.0,Oui
+159,58.0,Femme,Ressources Humaines,25.0,Licence,4912946.0,Non,35.0,38.0,23.0,2.0,3.0,Très mauvais,Insatisfait,11.0,Non
+160,25.0,Homme,Logistique,6.0,,1328470.0,Non,20.0,8.0,,1.0,2.0,Très mauvais,,19.0,Non
+161,27.0,Femme,Production,8.0,Doctorat,2461004.0,Non,,117.0,6.0,,4.0,Mauvais,Satisfait,26.0,Oui
+162,46.0,Homme,Informatique,21.0,Doctorat,6000000.0,Oui,4.0,20.0,15.0,1.0,3.0,Bon,Très satisfait,21.0,Oui
+163,28.0,Homme,Administration,10.0,Doctorat,,Oui,25.0,75.0,0.0,0.0,3.0,Moyen,Neutre,29.0,Non
+164,56.0,Femme,Administration,26.0,Master,6000000.0,Non,15.0,118.0,15.0,6.0,5.0,Bon,Neutre,20.0,Oui
+165,52.0,,Ressources Humaines,12.0,Licence,2293634.0,Non,35.0,28.0,11.0,2.0,3.0,Moyen,Très satisfait,18.0,Oui
+166,43.0,Homme,Finance,0.0,Licence,645501.0,Non,27.0,32.0,,0.0,2.0,Moyen,Satisfait,7.0,Non
+167,34.0,Femme,Commercial,1.0,Licence,720281.0,Non,28.0,,0.0,1.0,5.0,Moyen,Satisfait,6.0,Oui
+168,51.0,Homme,Commercial,0.0,Master,724088.0,Oui,11.0,61.0,0.0,0.0,3.0,Bon,Insatisfait,15.0,Non
+169,51.0,Femme,Informatique,20.0,Secondaire,3448156.0,,36.0,116.0,10.0,4.0,,Bon,Très satisfait,18.0,Oui
+170,43.0,,Support Client,15.0,Licence,2316906.0,Non,29.0,14.0,15.0,0.0,4.0,Excellent,Insatisfait,,Oui
+171,60.0,Homme,Support Client,5.0,Secondaire,728248.0,Non,22.0,1.0,5.0,2.0,3.0,Bon,Satisfait,19.0,Oui
+172,31.0,Homme,Marketing,11.0,Master,3618160.0,Oui,15.0,51.0,1.0,0.0,1.0,Bon,Très insatisfait,26.0,Non
+173,58.0,Homme,Logistique,16.0,Master,3541988.0,Non,13.0,102.0,4.0,0.0,5.0,Bon,,20.0,Oui
+174,21.0,Femme,Recherche et Développement,0.0,Licence,584341.0,Oui,9.0,116.0,0.0,1.0,1.0,Excellent,Insatisfait,10.0,Oui
+175,22.0,Femme,Finance,4.0,Licence,1315664.0,Non,6.0,43.0,3.0,0.0,5.0,Bon,Neutre,4.0,Oui
+176,56.0,Homme,Production,2.0,,999194.0,Oui,36.0,53.0,0.0,1.0,4.0,Très mauvais,Neutre,15.0,Non
+177,36.0,Homme,Recherche et Développement,4.0,Licence,1497774.0,Non,28.0,17.0,2.0,1.0,,Moyen,Insatisfait,6.0,Oui
+178,21.0,Femme,Recherche et Développement,0.0,Secondaire,417866.0,Non,2.0,2.0,,0.0,3.0,Bon,Satisfait,26.0,Non
+179,21.0,Femme,Administration,0.0,Secondaire,325171.0,,14.0,6.0,0.0,0.0,3.0,Bon,Très satisfait,4.0,Oui
+180,47.0,Femme,Informatique,9.0,Licence,3090892.0,Oui,35.0,42.0,,0.0,,Mauvais,Très satisfait,10.0,Oui
+181,42.0,Homme,Commercial,9.0,Secondaire,,Oui,18.0,81.0,,2.0,3.0,,Insatisfait,14.0,Oui
+182,56.0,Homme,Marketing,18.0,Doctorat,6000000.0,Oui,12.0,107.0,8.0,1.0,1.0,Excellent,,2.0,Oui
+183,51.0,Homme,Support Client,16.0,,2870726.0,Oui,20.0,37.0,8.0,2.0,3.0,Mauvais,Satisfait,25.0,Non
+184,52.0,Femme,Informatique,20.0,Master,4255585.0,Oui,36.0,36.0,3.0,2.0,4.0,Bon,Neutre,4.0,Oui
+185,20.0,Homme,Administration,1.0,Secondaire,507324.0,Non,26.0,57.0,0.0,0.0,1.0,Très mauvais,Très insatisfait,22.0,Non
+186,38.0,Femme,Production,8.0,Secondaire,1153031.0,Oui,28.0,32.0,0.0,1.0,3.0,Très mauvais,Satisfait,20.0,Non
+187,21.0,Homme,Marketing,1.0,Licence,742333.0,Oui,19.0,107.0,1.0,1.0,3.0,Mauvais,Très satisfait,4.0,Oui
+188,45.0,Femme,Administration,0.0,Secondaire,338686.0,,24.0,58.0,0.0,1.0,2.0,Très mauvais,Satisfait,8.0,Non
+189,51.0,Femme,Commercial,12.0,Licence,3053042.0,,5.0,94.0,7.0,3.0,5.0,Bon,Neutre,,Oui
+190,25.0,Femme,Commercial,3.0,Master,,Non,35.0,10.0,3.0,1.0,1.0,Très mauvais,Neutre,2.0,Non
+191,51.0,Homme,Commercial,0.0,Licence,546099.0,Oui,1.0,67.0,0.0,0.0,2.0,Moyen,Insatisfait,,Non
+192,23.0,Homme,Informatique,0.0,Licence,579742.0,,21.0,81.0,0.0,1.0,4.0,Mauvais,Satisfait,5.0,Oui
+193,30.0,Homme,Informatique,,Secondaire,,Oui,31.0,,0.0,0.0,5.0,Moyen,Satisfait,16.0,Oui
+194,36.0,,Support Client,,Secondaire,376373.0,Non,15.0,112.0,1.0,0.0,1.0,Très mauvais,Insatisfait,25.0,Non
+195,57.0,Femme,Support Client,27.0,Licence,4941485.0,Non,17.0,,12.0,2.0,3.0,Bon,Très satisfait,20.0,Oui
+196,43.0,Femme,Production,7.0,Licence,1788419.0,Oui,4.0,92.0,6.0,1.0,1.0,Mauvais,Insatisfait,7.0,Oui
+197,24.0,Femme,Marketing,6.0,Secondaire,,,35.0,87.0,6.0,3.0,3.0,Bon,Très satisfait,20.0,Oui
+198,53.0,Femme,Ressources Humaines,25.0,Licence,4382830.0,,29.0,21.0,7.0,0.0,5.0,Bon,Neutre,24.0,Non
+199,25.0,Homme,Ressources Humaines,1.0,Licence,589768.0,Oui,18.0,65.0,1.0,0.0,3.0,Très mauvais,Insatisfait,,Non
+200,41.0,Femme,Administration,1.0,Secondaire,467734.0,Non,22.0,43.0,1.0,1.0,4.0,Bon,Neutre,5.0,Oui
+201,30.0,Homme,Commercial,5.0,Secondaire,1064558.0,Non,33.0,5.0,3.0,,3.0,Très mauvais,Neutre,7.0,Non
+202,35.0,Homme,Marketing,2.0,Secondaire,663922.0,Non,12.0,41.0,1.0,0.0,4.0,,Très insatisfait,9.0,Non
+203,52.0,Homme,,11.0,,5307363.0,Oui,,24.0,8.0,0.0,5.0,Très mauvais,Satisfait,23.0,Non
+204,28.0,Homme,Informatique,0.0,Licence,732141.0,Non,35.0,118.0,0.0,0.0,5.0,Moyen,Satisfait,28.0,Oui
+205,25.0,Homme,Logistique,5.0,Licence,1312808.0,Non,21.0,56.0,2.0,0.0,1.0,Moyen,Satisfait,,Oui
+206,35.0,Femme,Finance,11.0,,1970404.0,Oui,35.0,84.0,9.0,1.0,4.0,Bon,Très insatisfait,22.0,Oui
+207,48.0,Homme,Production,4.0,Doctorat,1583740.0,Oui,,54.0,3.0,0.0,4.0,Moyen,Neutre,13.0,Oui
+208,22.0,Femme,Commercial,2.0,Licence,908850.0,Oui,38.0,15.0,0.0,0.0,,Bon,Très insatisfait,22.0,Non
+209,39.0,Homme,,16.0,Licence,3644762.0,Oui,18.0,94.0,7.0,1.0,2.0,Mauvais,Satisfait,13.0,Oui
+210,55.0,Homme,Commercial,22.0,Master,5811747.0,Non,37.0,13.0,20.0,1.0,2.0,,Très insatisfait,9.0,Non
+211,38.0,Homme,Informatique,14.0,Licence,3197497.0,Non,5.0,38.0,,1.0,3.0,Mauvais,Très satisfait,11.0,Oui
+212,,Homme,Informatique,4.0,Licence,1613631.0,Non,14.0,27.0,3.0,1.0,2.0,Mauvais,Satisfait,5.0,Non
+213,22.0,Femme,Finance,4.0,Licence,1395516.0,Non,19.0,95.0,0.0,1.0,4.0,Mauvais,Neutre,11.0,Non
+214,38.0,Homme,Recherche et Développement,13.0,Licence,3201275.0,Non,,91.0,12.0,1.0,3.0,Mauvais,Neutre,22.0,Oui
+215,39.0,Femme,Marketing,1.0,Master,925517.0,Oui,31.0,50.0,0.0,,5.0,Moyen,Insatisfait,13.0,Oui
+216,51.0,Homme,Commercial,10.0,Master,2995375.0,Non,3.0,118.0,,1.0,,Bon,Insatisfait,1.0,Oui
+217,26.0,Femme,Ressources Humaines,2.0,Licence,795727.0,Oui,17.0,48.0,2.0,0.0,2.0,Très mauvais,Très satisfait,8.0,Oui
+218,60.0,Femme,Support Client,33.0,,4209257.0,Oui,4.0,8.0,6.0,3.0,5.0,Bon,Très satisfait,9.0,Oui
+219,52.0,Femme,,33.0,Secondaire,4261621.0,Non,19.0,57.0,27.0,6.0,4.0,Bon,Très insatisfait,25.0,Oui
+220,59.0,Homme,Administration,17.0,Licence,3581208.0,Non,22.0,44.0,3.0,2.0,1.0,Bon,Satisfait,16.0,Oui
+221,58.0,Homme,Ressources Humaines,,Master,6000000.0,Non,10.0,21.0,21.0,3.0,5.0,Mauvais,Satisfait,16.0,Non
+222,37.0,Homme,Administration,14.0,Licence,,Oui,36.0,,11.0,1.0,1.0,Moyen,Satisfait,2.0,Oui
+223,59.0,Femme,Logistique,26.0,Master,5211855.0,Oui,21.0,68.0,12.0,2.0,2.0,Excellent,,29.0,Non
+224,20.0,Homme,Support Client,2.0,Licence,576345.0,Oui,3.0,86.0,2.0,1.0,4.0,Bon,,30.0,Oui
+225,30.0,Homme,Ressources Humaines,1.0,Secondaire,458445.0,Non,28.0,68.0,1.0,0.0,1.0,Moyen,Insatisfait,18.0,Non
+226,47.0,Femme,Logistique,19.0,Master,3998898.0,Non,33.0,41.0,11.0,,5.0,Mauvais,,0.0,Oui
+227,,Homme,Production,24.0,Secondaire,2758645.0,Non,12.0,52.0,1.0,1.0,2.0,Moyen,Neutre,11.0,Oui
+228,42.0,Femme,Marketing,5.0,Doctorat,2454394.0,Oui,8.0,95.0,1.0,0.0,2.0,Bon,Neutre,6.0,Oui
+229,50.0,Homme,Logistique,32.0,Licence,5013803.0,Non,30.0,58.0,26.0,6.0,5.0,Bon,Très satisfait,3.0,Oui
+230,49.0,Homme,Marketing,23.0,Licence,4190692.0,Non,6.0,73.0,22.0,4.0,5.0,Mauvais,Satisfait,9.0,Oui
+231,54.0,Femme,,14.0,Licence,2683133.0,Non,3.0,38.0,8.0,2.0,1.0,Bon,Très satisfait,12.0,Oui
+232,,Homme,Recherche et Développement,6.0,Licence,1936176.0,Non,18.0,,,0.0,3.0,Bon,Neutre,1.0,Oui
+233,35.0,Femme,Logistique,9.0,Master,2472155.0,Non,29.0,,7.0,0.0,2.0,Moyen,Insatisfait,,Non
+234,45.0,Homme,Support Client,18.0,Master,3853464.0,Non,30.0,28.0,5.0,0.0,1.0,Bon,Très satisfait,20.0,Oui
+235,21.0,Homme,Ressources Humaines,0.0,Licence,510799.0,Oui,34.0,110.0,0.0,1.0,5.0,Bon,Neutre,21.0,Oui
+236,20.0,Femme,Commercial,0.0,Secondaire,378528.0,Non,20.0,2.0,0.0,,1.0,Moyen,Insatisfait,24.0,Non
+237,31.0,Femme,Informatique,12.0,Licence,3389712.0,Oui,30.0,82.0,5.0,0.0,5.0,Bon,Neutre,3.0,Oui
+238,24.0,Femme,Logistique,3.0,Secondaire,636294.0,Non,18.0,9.0,1.0,0.0,4.0,Mauvais,Très insatisfait,17.0,Non
+239,56.0,Homme,Support Client,9.0,Licence,1619713.0,Non,30.0,91.0,8.0,2.0,5.0,Mauvais,Neutre,4.0,Oui
+240,51.0,Femme,Production,16.0,Master,3331971.0,Non,31.0,28.0,16.0,4.0,5.0,Moyen,Très satisfait,18.0,Oui
+241,28.0,Homme,Commercial,9.0,Licence,2211862.0,Non,1.0,78.0,5.0,2.0,5.0,Mauvais,Très satisfait,1.0,Oui
+242,60.0,Homme,Production,16.0,Licence,2968506.0,Non,9.0,34.0,,0.0,3.0,Mauvais,Très satisfait,11.0,Oui
+243,54.0,Femme,Ressources Humaines,19.0,Master,4895489.0,Non,1.0,5.0,18.0,0.0,5.0,Mauvais,Insatisfait,16.0,Non
+244,38.0,Homme,Informatique,4.0,Master,1692138.0,Non,1.0,11.0,3.0,1.0,2.0,Bon,Neutre,9.0,Oui
+245,35.0,Femme,Logistique,1.0,Licence,597900.0,Non,23.0,110.0,1.0,0.0,2.0,Mauvais,Très insatisfait,1.0,Non
+246,,Homme,Logistique,4.0,Master,1150454.0,Non,16.0,37.0,0.0,0.0,1.0,Bon,Très satisfait,5.0,Oui
+247,39.0,Homme,Recherche et Développement,1.0,Secondaire,597703.0,Non,31.0,76.0,0.0,0.0,3.0,Très mauvais,Neutre,7.0,Non
+248,43.0,Femme,,12.0,Licence,2912806.0,Non,15.0,92.0,12.0,5.0,1.0,Excellent,Satisfait,,Oui
+249,52.0,Femme,Ressources Humaines,10.0,Master,3265874.0,Non,15.0,18.0,0.0,1.0,2.0,Bon,Satisfait,18.0,Oui
+250,43.0,Femme,Ressources Humaines,18.0,Master,4571874.0,Non,38.0,66.0,2.0,1.0,2.0,Très mauvais,Neutre,10.0,Non
+251,30.0,Femme,Informatique,8.0,Licence,2575213.0,Non,30.0,7.0,7.0,3.0,4.0,Bon,Neutre,30.0,Non
+252,27.0,Femme,Recherche et Développement,6.0,Master,2915692.0,Oui,23.0,7.0,5.0,1.0,5.0,,Très satisfait,24.0,Oui
+253,55.0,,Support Client,15.0,Master,2842932.0,Oui,0.0,118.0,2.0,1.0,2.0,Bon,Très satisfait,30.0,Oui
+254,57.0,,Support Client,30.0,Master,5935811.0,Non,10.0,,15.0,3.0,1.0,Moyen,Insatisfait,11.0,Oui
+255,59.0,Homme,Informatique,10.0,Master,3196870.0,Oui,20.0,46.0,3.0,1.0,1.0,,Neutre,8.0,Oui
+256,39.0,Homme,Support Client,21.0,Licence,3325263.0,Non,3.0,3.0,16.0,5.0,5.0,Bon,Très satisfait,1.0,Oui
+257,54.0,Homme,Administration,15.0,Master,4553329.0,Non,6.0,50.0,,1.0,5.0,Moyen,Très insatisfait,7.0,Non
+258,44.0,Femme,Marketing,7.0,Licence,1717534.0,Non,25.0,84.0,4.0,1.0,4.0,Très mauvais,Neutre,25.0,Non
+259,54.0,Femme,Informatique,3.0,Master,1514207.0,Non,11.0,66.0,1.0,1.0,3.0,Bon,Insatisfait,10.0,Oui
+260,44.0,Homme,Informatique,7.0,Master,2759211.0,Non,30.0,44.0,0.0,0.0,1.0,Moyen,Neutre,27.0,Non
+261,48.0,Femme,Finance,3.0,Master,1924319.0,Non,16.0,7.0,1.0,,5.0,Moyen,Très insatisfait,,Non
+262,37.0,Femme,Commercial,2.0,Secondaire,699040.0,Non,32.0,86.0,0.0,0.0,1.0,Très mauvais,Neutre,3.0,Non
+263,37.0,Homme,Commercial,2.0,Licence,826379.0,Non,10.0,15.0,1.0,1.0,5.0,Moyen,Insatisfait,9.0,Non
+264,21.0,Femme,Administration,2.0,Licence,946188.0,Non,27.0,76.0,2.0,1.0,2.0,Excellent,Neutre,20.0,Oui
+265,54.0,Femme,,28.0,Master,6000000.0,Oui,31.0,66.0,19.0,6.0,1.0,Moyen,Très satisfait,19.0,Oui
+266,35.0,Homme,Ressources Humaines,17.0,Master,5221147.0,Non,0.0,111.0,0.0,1.0,2.0,Moyen,Satisfait,15.0,Oui
+267,60.0,Femme,Ressources Humaines,18.0,Master,4904944.0,Non,27.0,8.0,6.0,0.0,1.0,Bon,,7.0,Oui
+268,55.0,Homme,Production,20.0,Licence,4076072.0,Oui,6.0,59.0,20.0,2.0,3.0,Bon,Satisfait,3.0,Oui
+269,52.0,Femme,Administration,,Licence,970525.0,Non,1.0,77.0,,2.0,4.0,Moyen,Très insatisfait,28.0,Non
+270,23.0,Femme,Informatique,1.0,Secondaire,621352.0,Non,,76.0,0.0,1.0,2.0,Moyen,Insatisfait,9.0,Non
+271,52.0,Femme,Administration,27.0,Licence,4958707.0,Oui,3.0,116.0,9.0,1.0,5.0,Excellent,Très satisfait,11.0,Oui
+272,33.0,Homme,Administration,9.0,Licence,1800402.0,Non,18.0,120.0,5.0,2.0,3.0,Bon,Neutre,28.0,Oui
+273,40.0,Femme,Administration,21.0,,4496474.0,Oui,,70.0,8.0,2.0,1.0,Mauvais,Insatisfait,13.0,Non
+274,39.0,Femme,Commercial,20.0,,4449748.0,Oui,10.0,,8.0,,2.0,Très mauvais,Satisfait,15.0,Non
+275,27.0,Homme,Administration,5.0,Secondaire,1006784.0,Non,39.0,,4.0,1.0,1.0,,Insatisfait,21.0,Non
+276,26.0,Femme,Marketing,0.0,,609068.0,Non,10.0,101.0,0.0,1.0,1.0,Mauvais,Insatisfait,,Non
+277,22.0,Homme,Ressources Humaines,4.0,Secondaire,788216.0,Non,2.0,97.0,0.0,1.0,1.0,Moyen,Très satisfait,20.0,Oui
+278,,Femme,Production,8.0,Secondaire,1162304.0,Non,11.0,40.0,8.0,1.0,4.0,Bon,Très satisfait,21.0,Oui
+279,52.0,Homme,Marketing,11.0,Secondaire,1583042.0,Non,2.0,21.0,0.0,0.0,4.0,Très mauvais,Neutre,20.0,Non
+280,31.0,Homme,Production,9.0,Secondaire,1485299.0,Non,26.0,23.0,7.0,2.0,5.0,Bon,Très satisfait,11.0,Oui
+281,41.0,Homme,Finance,13.0,Licence,,Oui,1.0,112.0,4.0,0.0,2.0,Moyen,Satisfait,17.0,Oui
+282,41.0,Femme,Production,1.0,Secondaire,453565.0,Non,15.0,100.0,0.0,1.0,3.0,Bon,Satisfait,29.0,Oui
+283,49.0,Homme,Ressources Humaines,16.0,Licence,3418862.0,Oui,1.0,,6.0,0.0,3.0,Bon,Très insatisfait,6.0,Oui
+284,57.0,Femme,Ressources Humaines,13.0,Master,3939641.0,,29.0,0.0,6.0,2.0,3.0,Très mauvais,Insatisfait,19.0,Non
+285,57.0,Homme,Administration,25.0,Master,5528666.0,Non,19.0,9.0,8.0,,1.0,Moyen,Satisfait,23.0,Non
+286,27.0,Homme,Logistique,8.0,Master,,Oui,37.0,106.0,6.0,2.0,4.0,Mauvais,Très satisfait,22.0,Oui
+287,46.0,Femme,Finance,25.0,Licence,5847838.0,Oui,27.0,79.0,12.0,0.0,2.0,Bon,Satisfait,6.0,Oui
+288,46.0,Femme,Informatique,24.0,Licence,6000000.0,Oui,24.0,109.0,10.0,1.0,1.0,Bon,Insatisfait,8.0,Oui
+289,53.0,Homme,Support Client,21.0,Master,3787973.0,Non,31.0,71.0,13.0,4.0,4.0,Moyen,Insatisfait,0.0,Oui
+290,40.0,Femme,Production,14.0,Secondaire,2041019.0,Non,9.0,55.0,2.0,1.0,4.0,Moyen,Satisfait,25.0,Oui
+291,49.0,Femme,Logistique,23.0,Licence,4055884.0,Non,39.0,112.0,10.0,1.0,2.0,Moyen,Insatisfait,5.0,Non
+292,52.0,Femme,Administration,29.0,Master,6000000.0,Non,32.0,88.0,12.0,5.0,2.0,Bon,,5.0,Oui
+293,47.0,Homme,Commercial,10.0,Master,3085578.0,Non,12.0,49.0,0.0,1.0,2.0,Moyen,Très insatisfait,21.0,Non
+294,52.0,Homme,Informatique,16.0,Secondaire,3348401.0,Non,40.0,11.0,7.0,0.0,1.0,Moyen,Très insatisfait,28.0,Non
+295,24.0,Femme,Recherche et Développement,1.0,Secondaire,,Oui,36.0,88.0,1.0,0.0,5.0,Moyen,Satisfait,11.0,Oui
+296,38.0,,Logistique,3.0,Licence,758225.0,,15.0,80.0,2.0,1.0,2.0,Très mauvais,Satisfait,21.0,Non
+297,23.0,Femme,Commercial,0.0,Secondaire,431950.0,Non,21.0,59.0,0.0,1.0,5.0,Bon,Neutre,11.0,Oui
+298,54.0,Femme,Finance,7.0,Licence,2298289.0,Non,19.0,25.0,3.0,,1.0,Très mauvais,Insatisfait,9.0,Non
+299,36.0,Femme,Administration,16.0,Master,4325904.0,Non,26.0,109.0,7.0,1.0,5.0,Bon,Satisfait,22.0,Oui
+300,47.0,Femme,Informatique,2.0,Doctorat,1565025.0,,40.0,111.0,0.0,0.0,3.0,Mauvais,Insatisfait,29.0,Non
+301,49.0,Femme,Informatique,28.0,Licence,6000000.0,Non,15.0,77.0,20.0,3.0,5.0,Mauvais,Neutre,25.0,Oui
+302,48.0,Homme,Informatique,19.0,Master,4998784.0,Non,33.0,40.0,12.0,0.0,2.0,Bon,Très satisfait,5.0,Oui
+303,25.0,Femme,Finance,6.0,Licence,1958696.0,Non,31.0,35.0,3.0,0.0,1.0,Excellent,Insatisfait,16.0,Non
+304,54.0,Homme,Production,21.0,Licence,3128176.0,Non,25.0,120.0,15.0,3.0,,Bon,Très satisfait,18.0,Oui
+305,60.0,Homme,Recherche et Développement,13.0,Licence,2768007.0,Non,24.0,22.0,0.0,0.0,3.0,Mauvais,Insatisfait,17.0,Non
+306,56.0,Femme,Finance,25.0,Master,6000000.0,Non,1.0,42.0,,0.0,2.0,Mauvais,Satisfait,5.0,Oui
+307,43.0,Femme,Support Client,22.0,Licence,3606047.0,Non,11.0,5.0,6.0,0.0,2.0,Bon,Neutre,23.0,Non
+308,48.0,Femme,Recherche et Développement,13.0,Licence,3231137.0,Oui,39.0,110.0,11.0,2.0,2.0,Moyen,Très satisfait,18.0,Oui
+309,50.0,Femme,Ressources Humaines,23.0,Secondaire,3068311.0,,8.0,68.0,4.0,2.0,4.0,Mauvais,Insatisfait,9.0,Non
+310,54.0,Homme,,1.0,Master,642338.0,Oui,11.0,42.0,1.0,0.0,3.0,Bon,Neutre,23.0,Oui
+311,52.0,Homme,Finance,25.0,Master,6000000.0,Non,25.0,24.0,24.0,2.0,2.0,,Très satisfait,7.0,Oui
+312,40.0,Femme,,13.0,Master,3519822.0,Non,8.0,17.0,10.0,1.0,2.0,Excellent,Neutre,20.0,Oui
+313,51.0,,Recherche et Développement,6.0,Licence,1934346.0,Non,,61.0,5.0,1.0,2.0,Excellent,Neutre,23.0,Oui
+314,,Homme,Support Client,2.0,Secondaire,354539.0,Oui,31.0,12.0,2.0,0.0,1.0,Bon,Insatisfait,5.0,Non
+315,,Homme,Ressources Humaines,22.0,Master,5908127.0,Non,33.0,,12.0,2.0,4.0,Très mauvais,Satisfait,20.0,Non
+316,22.0,Homme,Production,2.0,Licence,687433.0,Oui,19.0,77.0,2.0,0.0,1.0,Mauvais,Très insatisfait,24.0,Non
+317,37.0,Homme,Commercial,14.0,Licence,2696021.0,Non,38.0,27.0,6.0,2.0,4.0,Bon,Très insatisfait,29.0,Non
+318,,Homme,Recherche et Développement,12.0,Master,3890725.0,Non,1.0,17.0,0.0,0.0,2.0,Moyen,Satisfait,6.0,Oui
+319,50.0,Homme,Administration,17.0,Doctorat,5169161.0,Non,0.0,58.0,14.0,5.0,3.0,Moyen,,23.0,Oui
+320,22.0,Homme,Commercial,1.0,Licence,801555.0,Non,35.0,59.0,1.0,1.0,5.0,Moyen,Très satisfait,0.0,Oui
+321,59.0,Femme,Ressources Humaines,,Master,6000000.0,Non,23.0,62.0,17.0,3.0,5.0,Moyen,Très satisfait,26.0,Oui
+322,43.0,Homme,Commercial,18.0,Doctorat,6000000.0,Oui,26.0,56.0,17.0,2.0,2.0,Bon,,17.0,Oui
+323,51.0,Homme,Marketing,14.0,Licence,3229409.0,Oui,1.0,91.0,1.0,0.0,1.0,Très mauvais,Satisfait,23.0,Non
+324,41.0,Femme,Logistique,22.0,Master,5277013.0,Non,30.0,50.0,3.0,0.0,3.0,Moyen,Satisfait,27.0,Non
+325,42.0,Homme,Production,4.0,Doctorat,1717727.0,Non,13.0,55.0,0.0,1.0,,Moyen,Insatisfait,24.0,Non
+326,21.0,Femme,Ressources Humaines,3.0,Secondaire,800316.0,Non,1.0,26.0,2.0,0.0,2.0,Bon,Satisfait,19.0,Oui
+327,46.0,Femme,Commercial,9.0,Master,2504762.0,Oui,28.0,31.0,3.0,1.0,3.0,Mauvais,Insatisfait,11.0,Non
+328,21.0,Homme,,2.0,Licence,751846.0,,14.0,110.0,1.0,0.0,3.0,Moyen,Neutre,15.0,Oui
+329,45.0,Homme,Logistique,24.0,Master,5025160.0,Non,11.0,8.0,4.0,,4.0,Bon,Satisfait,9.0,Non
+330,36.0,Femme,Commercial,16.0,Master,5122328.0,Non,36.0,103.0,14.0,3.0,3.0,Moyen,Neutre,26.0,Oui
+331,59.0,Femme,Administration,21.0,Doctorat,6000000.0,Oui,27.0,95.0,7.0,2.0,1.0,Très mauvais,Très satisfait,9.0,Oui
+332,52.0,Homme,Marketing,25.0,Master,6000000.0,Oui,19.0,83.0,,0.0,1.0,Moyen,Insatisfait,13.0,Non
+333,28.0,Femme,Finance,8.0,Secondaire,1426015.0,Non,38.0,91.0,0.0,1.0,1.0,Moyen,Satisfait,24.0,Non
+334,58.0,Homme,Marketing,16.0,Master,4686563.0,Non,23.0,96.0,0.0,0.0,3.0,Excellent,Très insatisfait,19.0,Non
+335,48.0,Femme,Commercial,12.0,Licence,2297733.0,Oui,20.0,67.0,11.0,1.0,1.0,Mauvais,Satisfait,9.0,Non
+336,45.0,Homme,Production,19.0,Licence,3852671.0,Non,9.0,45.0,18.0,6.0,4.0,Bon,Satisfait,,Oui
+337,54.0,Femme,Finance,24.0,Licence,5385040.0,Non,13.0,120.0,14.0,4.0,3.0,Très mauvais,Satisfait,25.0,Oui
+338,44.0,Femme,Ressources Humaines,3.0,Licence,990961.0,Non,36.0,97.0,0.0,0.0,5.0,Moyen,Insatisfait,24.0,Non
+339,43.0,Femme,Marketing,9.0,Licence,2052240.0,Non,17.0,111.0,6.0,2.0,3.0,Bon,Très insatisfait,10.0,Non
+340,32.0,Homme,Commercial,2.0,Master,1062853.0,Non,23.0,66.0,1.0,0.0,4.0,Moyen,Insatisfait,22.0,Non
+341,26.0,Homme,Marketing,8.0,Master,2785038.0,Oui,13.0,25.0,8.0,0.0,5.0,Moyen,Satisfait,1.0,Oui
+342,55.0,Homme,Finance,17.0,Master,5292203.0,Non,,7.0,9.0,0.0,3.0,Mauvais,Très satisfait,24.0,Non
+343,39.0,,Support Client,,Secondaire,1630899.0,Non,11.0,5.0,1.0,1.0,1.0,Moyen,Insatisfait,19.0,Non
+344,20.0,Homme,Recherche et Développement,2.0,Master,1194233.0,Oui,21.0,79.0,2.0,1.0,2.0,Bon,Satisfait,7.0,Oui
+345,27.0,Femme,Marketing,5.0,Master,2042024.0,Oui,5.0,23.0,2.0,0.0,2.0,Moyen,Très satisfait,29.0,Non
+346,,Homme,Ressources Humaines,1.0,Licence,721022.0,Non,35.0,47.0,0.0,0.0,1.0,Bon,Neutre,22.0,Oui
+347,33.0,Homme,Ressources Humaines,14.0,Secondaire,1987587.0,Oui,35.0,102.0,9.0,3.0,2.0,Bon,Satisfait,28.0,Oui
+348,31.0,Femme,Informatique,7.0,Secondaire,1743147.0,Oui,21.0,93.0,5.0,2.0,2.0,Moyen,Satisfait,30.0,Oui
+349,42.0,,Marketing,7.0,Licence,1813518.0,Oui,13.0,44.0,1.0,0.0,1.0,Très mauvais,Insatisfait,6.0,Non
+350,34.0,Femme,Recherche et Développement,16.0,Licence,4282257.0,Oui,15.0,12.0,8.0,1.0,1.0,,Insatisfait,7.0,Non
+351,47.0,Femme,Administration,11.0,Licence,1958559.0,,35.0,68.0,8.0,0.0,3.0,Bon,Très insatisfait,0.0,Non
+352,,Homme,Logistique,18.0,Doctorat,5379332.0,Non,24.0,24.0,6.0,0.0,3.0,Moyen,Très satisfait,20.0,Oui
+353,21.0,Homme,Recherche et Développement,1.0,Licence,,Non,31.0,19.0,1.0,1.0,1.0,Bon,Très satisfait,1.0,Oui
+354,51.0,Femme,Logistique,5.0,Secondaire,868297.0,Oui,32.0,117.0,2.0,0.0,4.0,Moyen,Satisfait,17.0,Oui
+355,42.0,Femme,,19.0,Licence,3350477.0,Oui,35.0,81.0,19.0,2.0,2.0,Bon,,14.0,Oui
+356,41.0,Homme,Support Client,1.0,Secondaire,380726.0,Non,19.0,110.0,1.0,1.0,3.0,,Neutre,0.0,Oui
+357,44.0,Femme,Informatique,26.0,Secondaire,,Non,17.0,81.0,26.0,4.0,2.0,Bon,Insatisfait,4.0,Oui
+358,41.0,Homme,Recherche et Développement,23.0,Licence,5134904.0,Non,37.0,65.0,20.0,1.0,5.0,Moyen,Très insatisfait,1.0,Non
+359,41.0,Homme,Recherche et Développement,12.0,Licence,3310764.0,,,73.0,1.0,0.0,,Moyen,Satisfait,19.0,Oui
+360,25.0,,Support Client,5.0,,1536609.0,Non,22.0,118.0,4.0,0.0,4.0,Moyen,Très satisfait,2.0,Oui
+361,34.0,Femme,Marketing,4.0,Doctorat,1803784.0,Oui,31.0,44.0,2.0,1.0,,Moyen,Très satisfait,18.0,Oui
+362,56.0,,Marketing,32.0,Licence,5948948.0,Non,15.0,113.0,15.0,6.0,5.0,Excellent,Satisfait,17.0,Oui
+363,52.0,Homme,Marketing,21.0,Licence,4093382.0,Non,4.0,46.0,7.0,3.0,5.0,Mauvais,Très insatisfait,28.0,Non
+364,27.0,Femme,Production,4.0,Master,1197763.0,Non,3.0,62.0,1.0,1.0,1.0,Mauvais,Insatisfait,21.0,Non
+365,24.0,Homme,Logistique,5.0,Licence,1140178.0,Oui,20.0,75.0,0.0,0.0,3.0,Bon,Neutre,17.0,Oui
+366,58.0,,Production,5.0,Secondaire,943331.0,Non,39.0,110.0,0.0,0.0,1.0,Moyen,Satisfait,13.0,Non
+367,23.0,Femme,Informatique,3.0,Master,1901902.0,Non,13.0,76.0,1.0,0.0,3.0,Moyen,Satisfait,29.0,Oui
+368,,Femme,Support Client,,Secondaire,768069.0,Oui,38.0,113.0,3.0,1.0,5.0,Bon,Neutre,23.0,Oui
+369,51.0,Femme,Recherche et Développement,10.0,Master,3374422.0,Oui,30.0,110.0,2.0,1.0,5.0,Moyen,Neutre,7.0,Oui
+370,49.0,Femme,Logistique,29.0,Master,6000000.0,Oui,13.0,120.0,10.0,2.0,4.0,Excellent,Très insatisfait,,Oui
+371,,Femme,Production,29.0,Licence,3684996.0,Non,5.0,54.0,0.0,1.0,3.0,Moyen,Insatisfait,29.0,Oui
+372,59.0,Femme,Production,30.0,Licence,4451837.0,Oui,11.0,74.0,22.0,0.0,5.0,Mauvais,Neutre,11.0,Non
+373,35.0,Homme,Commercial,8.0,Master,1991615.0,Non,15.0,18.0,4.0,2.0,2.0,,Insatisfait,20.0,Non
+374,32.0,Homme,Production,6.0,Secondaire,860373.0,Non,16.0,34.0,4.0,0.0,,Bon,Neutre,,Non
+375,49.0,Homme,Administration,2.0,Secondaire,544745.0,,22.0,102.0,1.0,0.0,1.0,Moyen,Très satisfait,22.0,Oui
+376,38.0,Homme,Recherche et Développement,18.0,Master,6000000.0,Non,13.0,52.0,16.0,1.0,4.0,Bon,Satisfait,19.0,Oui
+377,36.0,Femme,Administration,7.0,Licence,1206007.0,Non,6.0,25.0,6.0,0.0,2.0,Mauvais,Très insatisfait,16.0,Non
+378,38.0,Homme,Recherche et Développement,4.0,Secondaire,994267.0,Oui,31.0,109.0,0.0,0.0,3.0,Moyen,Insatisfait,10.0,Oui
+379,47.0,Homme,Support Client,3.0,Master,1085744.0,Oui,14.0,13.0,2.0,1.0,1.0,Bon,Neutre,1.0,Oui
+380,45.0,Homme,Recherche et Développement,23.0,Licence,5666040.0,Oui,16.0,117.0,23.0,6.0,1.0,Mauvais,Neutre,25.0,Oui
+381,56.0,Femme,Administration,30.0,Master,6000000.0,Non,40.0,44.0,,1.0,3.0,Moyen,Neutre,25.0,Non
+382,45.0,Homme,Recherche et Développement,5.0,Master,2171924.0,Oui,33.0,43.0,5.0,0.0,,Bon,Neutre,3.0,Oui
+383,42.0,Femme,Support Client,1.0,Licence,546102.0,Oui,4.0,87.0,1.0,0.0,5.0,Excellent,Satisfait,0.0,Oui
+384,,Homme,Support Client,3.0,Licence,649001.0,Non,26.0,104.0,0.0,1.0,4.0,Moyen,Satisfait,14.0,Oui
+385,31.0,Homme,Informatique,11.0,Doctorat,,Non,22.0,64.0,5.0,2.0,2.0,Moyen,Neutre,12.0,Non
+386,20.0,Femme,Recherche et Développement,2.0,Secondaire,606025.0,Oui,39.0,50.0,2.0,1.0,5.0,Bon,Satisfait,7.0,Oui
+387,20.0,Femme,Commercial,2.0,Licence,960627.0,Oui,13.0,42.0,1.0,1.0,4.0,Excellent,Neutre,24.0,Oui
+388,,Homme,Marketing,5.0,Secondaire,1081438.0,Oui,14.0,118.0,,1.0,3.0,Bon,Très insatisfait,3.0,Oui
+389,51.0,,Ressources Humaines,29.0,Licence,5530119.0,Non,32.0,85.0,2.0,,,Mauvais,Satisfait,9.0,Non
+390,44.0,,Support Client,23.0,Licence,3176179.0,Non,30.0,22.0,12.0,3.0,2.0,Moyen,Satisfait,18.0,Oui
+391,59.0,Homme,Finance,1.0,Master,954610.0,Oui,34.0,55.0,0.0,0.0,2.0,Moyen,Très satisfait,17.0,Oui
+392,20.0,Femme,Marketing,2.0,Master,1192667.0,Oui,16.0,117.0,0.0,0.0,5.0,Bon,Satisfait,4.0,Oui
+393,35.0,,Logistique,10.0,Licence,1822268.0,Oui,27.0,18.0,4.0,0.0,1.0,Bon,Très satisfait,29.0,Non
+394,58.0,Femme,Recherche et Développement,7.0,Secondaire,1335714.0,,18.0,81.0,5.0,0.0,5.0,Bon,Très satisfait,18.0,Oui
+395,24.0,Femme,Administration,1.0,Licence,624547.0,Non,22.0,75.0,1.0,1.0,4.0,Excellent,Satisfait,25.0,Oui
+396,,Femme,Ressources Humaines,18.0,Licence,3281815.0,Non,31.0,54.0,11.0,0.0,1.0,Très mauvais,Neutre,22.0,Non
+397,48.0,Femme,Finance,12.0,Secondaire,2043570.0,Non,,91.0,1.0,1.0,4.0,Mauvais,Satisfait,26.0,Non
+398,22.0,Femme,Marketing,3.0,Licence,959374.0,Non,12.0,91.0,3.0,2.0,1.0,,Très satisfait,21.0,Oui
+399,31.0,Femme,Recherche et Développement,4.0,Licence,1517672.0,Oui,19.0,59.0,2.0,1.0,5.0,Moyen,Satisfait,15.0,Oui
+400,45.0,Femme,Informatique,5.0,Doctorat,3282495.0,Non,34.0,58.0,2.0,1.0,,Très mauvais,,,Non
+401,35.0,Femme,Logistique,3.0,Licence,891110.0,Non,4.0,32.0,3.0,2.0,3.0,Très mauvais,,11.0,Oui
+402,56.0,Femme,Ressources Humaines,18.0,,,Non,8.0,18.0,11.0,3.0,2.0,Bon,Insatisfait,23.0,Non
+403,41.0,Homme,Commercial,19.0,Master,5486713.0,Non,28.0,27.0,14.0,5.0,5.0,Bon,Neutre,1.0,Oui
+404,48.0,Femme,Informatique,0.0,Licence,660350.0,Oui,5.0,51.0,0.0,1.0,1.0,Moyen,Insatisfait,20.0,Oui
+405,33.0,Femme,Finance,3.0,Licence,1137271.0,Oui,24.0,48.0,0.0,1.0,2.0,Moyen,Satisfait,,Oui
+406,47.0,Homme,Ressources Humaines,16.0,Master,4788729.0,Oui,30.0,36.0,7.0,,5.0,Moyen,Très satisfait,7.0,Oui
+407,24.0,Femme,Informatique,3.0,Licence,1194340.0,Non,21.0,25.0,2.0,,4.0,Bon,Insatisfait,17.0,Oui
+408,49.0,Homme,Logistique,14.0,Master,3501730.0,Non,1.0,98.0,9.0,0.0,3.0,Bon,Très insatisfait,24.0,Non
+409,24.0,Homme,Commercial,0.0,Licence,567577.0,Non,4.0,97.0,0.0,1.0,2.0,Bon,Insatisfait,15.0,Oui
+410,31.0,Femme,,,Secondaire,,Non,26.0,98.0,8.0,0.0,1.0,Mauvais,Satisfait,4.0,Oui
+411,35.0,Homme,Production,13.0,Master,2983165.0,,24.0,39.0,5.0,,4.0,Très mauvais,Neutre,25.0,Non
+412,45.0,Femme,Commercial,5.0,Licence,,Non,7.0,79.0,3.0,2.0,5.0,Très mauvais,Insatisfait,29.0,Non
+413,45.0,,Finance,4.0,Secondaire,1051314.0,Oui,0.0,37.0,3.0,0.0,3.0,Bon,Insatisfait,21.0,Non
+414,40.0,Homme,Logistique,10.0,Master,2586686.0,Non,19.0,76.0,0.0,0.0,1.0,Bon,Neutre,12.0,Oui
+415,58.0,Homme,Recherche et Développement,35.0,Licence,6000000.0,Oui,22.0,86.0,23.0,0.0,5.0,Bon,Insatisfait,18.0,Oui
+416,55.0,Homme,Administration,12.0,Master,3219578.0,Non,,53.0,,1.0,5.0,Moyen,Satisfait,28.0,Oui
+417,52.0,Femme,Administration,2.0,,610922.0,Non,10.0,21.0,1.0,1.0,2.0,Bon,Très insatisfait,2.0,Non
+418,49.0,Femme,Administration,0.0,Licence,487797.0,Oui,38.0,15.0,0.0,1.0,2.0,Excellent,Satisfait,25.0,Oui
+419,56.0,Femme,Ressources Humaines,5.0,Secondaire,853353.0,Non,23.0,27.0,3.0,0.0,1.0,Moyen,Insatisfait,7.0,Non
+420,42.0,,Finance,17.0,Licence,4196051.0,Non,10.0,111.0,4.0,2.0,5.0,Moyen,Neutre,26.0,Oui
+421,29.0,Femme,Logistique,7.0,Doctorat,2647823.0,Non,28.0,34.0,6.0,0.0,2.0,Excellent,Insatisfait,25.0,Non
+422,24.0,Femme,Commercial,,Licence,804054.0,Non,25.0,59.0,1.0,1.0,3.0,Moyen,Satisfait,25.0,Oui
+423,55.0,Femme,Ressources Humaines,4.0,Licence,1224436.0,Non,15.0,44.0,4.0,1.0,3.0,Excellent,Très satisfait,30.0,Oui
+424,53.0,Homme,Finance,22.0,Licence,5930698.0,Oui,,,0.0,0.0,5.0,Excellent,Très satisfait,11.0,Oui
+425,50.0,Femme,Recherche et Développement,,Master,3352269.0,Oui,19.0,,0.0,0.0,2.0,Bon,Satisfait,1.0,Oui
+426,29.0,Femme,Production,11.0,Master,,Oui,2.0,107.0,3.0,1.0,1.0,Bon,Neutre,10.0,Oui
+427,38.0,Femme,Logistique,1.0,Licence,647712.0,Non,0.0,54.0,0.0,1.0,1.0,Bon,Satisfait,11.0,Oui
+428,51.0,Homme,Administration,12.0,Master,3150036.0,Oui,0.0,118.0,12.0,1.0,1.0,Bon,Satisfait,27.0,Oui
+429,20.0,Femme,Informatique,1.0,Secondaire,655358.0,Non,16.0,85.0,1.0,1.0,,Moyen,Insatisfait,17.0,Non
+430,24.0,Femme,Logistique,3.0,Secondaire,578892.0,Non,1.0,84.0,3.0,,2.0,Très mauvais,Satisfait,12.0,Non
+431,23.0,Homme,Support Client,0.0,Licence,405712.0,Non,28.0,25.0,0.0,1.0,2.0,Moyen,Neutre,4.0,Non
+432,35.0,Femme,Finance,4.0,Secondaire,1097366.0,Non,19.0,103.0,1.0,1.0,3.0,Bon,Insatisfait,21.0,Non
+433,43.0,Femme,Marketing,8.0,Licence,2229447.0,Non,5.0,84.0,2.0,1.0,1.0,Mauvais,Insatisfait,11.0,Non
+434,,Homme,,16.0,Doctorat,6000000.0,Non,7.0,24.0,10.0,2.0,1.0,Très mauvais,Insatisfait,1.0,Non
+435,21.0,Homme,Production,0.0,Licence,487927.0,Oui,28.0,104.0,0.0,0.0,5.0,Mauvais,Neutre,30.0,Non
+436,47.0,Femme,Recherche et Développement,10.0,Master,3452841.0,Oui,32.0,64.0,,2.0,4.0,Bon,Insatisfait,4.0,Oui
+437,51.0,Homme,Logistique,14.0,Master,3175014.0,Non,2.0,5.0,13.0,5.0,2.0,Excellent,Insatisfait,6.0,Oui
+438,46.0,Femme,Marketing,23.0,Master,5988522.0,Oui,34.0,22.0,10.0,0.0,2.0,,Insatisfait,25.0,Non
+439,39.0,Homme,Support Client,5.0,Secondaire,780237.0,Oui,4.0,114.0,0.0,1.0,2.0,Moyen,Satisfait,25.0,Oui
+440,43.0,Femme,Commercial,22.0,,3771744.0,Non,26.0,63.0,16.0,5.0,4.0,Bon,Satisfait,23.0,Oui
+441,31.0,Homme,Informatique,2.0,Secondaire,869145.0,Oui,11.0,86.0,1.0,1.0,5.0,,Neutre,11.0,Oui
+442,54.0,Femme,,29.0,Licence,5924077.0,Non,19.0,42.0,4.0,0.0,4.0,Moyen,Très insatisfait,15.0,Non
+443,52.0,Femme,Finance,30.0,Master,6000000.0,Oui,19.0,106.0,7.0,2.0,1.0,Bon,Insatisfait,22.0,Oui
+444,52.0,Femme,Administration,4.0,Licence,868046.0,Non,8.0,22.0,1.0,0.0,1.0,Mauvais,Très satisfait,7.0,Oui
+445,56.0,Femme,Support Client,13.0,Licence,2131324.0,Non,38.0,95.0,3.0,1.0,2.0,Excellent,Neutre,29.0,Oui
+446,31.0,Homme,Informatique,4.0,Licence,1480618.0,Non,3.0,29.0,3.0,1.0,3.0,Moyen,Neutre,27.0,Non
+447,22.0,Femme,Production,2.0,Secondaire,,Non,18.0,76.0,1.0,1.0,2.0,Moyen,Très insatisfait,8.0,Non
+448,20.0,Homme,Administration,0.0,Licence,457020.0,Non,37.0,106.0,0.0,0.0,3.0,Bon,Satisfait,14.0,Oui
+449,52.0,Homme,Logistique,33.0,Licence,5416134.0,Oui,26.0,17.0,0.0,1.0,4.0,Moyen,Neutre,4.0,Oui
+450,59.0,Homme,Marketing,11.0,Licence,2420517.0,Non,12.0,86.0,3.0,2.0,1.0,Moyen,Insatisfait,12.0,Non
+451,29.0,Homme,Informatique,2.0,Secondaire,810863.0,Non,12.0,78.0,0.0,1.0,3.0,Bon,Insatisfait,4.0,Oui
+452,48.0,,,2.0,Secondaire,545821.0,Non,21.0,96.0,0.0,1.0,4.0,Très mauvais,Neutre,10.0,Non
+453,32.0,Femme,Commercial,0.0,Licence,547333.0,Non,27.0,20.0,0.0,0.0,1.0,Bon,Satisfait,9.0,Non
+454,31.0,,Commercial,7.0,Licence,2048855.0,Oui,21.0,56.0,1.0,0.0,3.0,Moyen,Très satisfait,19.0,Oui
+455,50.0,Homme,Support Client,21.0,,3202636.0,,18.0,102.0,4.0,1.0,2.0,Bon,Satisfait,12.0,Oui
+456,21.0,Femme,Production,3.0,Licence,926445.0,Non,7.0,22.0,1.0,1.0,2.0,Bon,Satisfait,8.0,Oui
+457,54.0,Homme,Support Client,28.0,Licence,4276802.0,Oui,,90.0,,2.0,2.0,Moyen,Insatisfait,20.0,Oui
+458,42.0,Homme,Ressources Humaines,7.0,Master,2143712.0,Non,25.0,44.0,7.0,1.0,4.0,Bon,Satisfait,13.0,Oui
+459,36.0,,Finance,10.0,Master,,Oui,25.0,43.0,10.0,4.0,2.0,Bon,Satisfait,17.0,Oui
+460,45.0,Femme,Production,8.0,Licence,1556288.0,Oui,22.0,81.0,2.0,1.0,5.0,Bon,Insatisfait,14.0,Oui
+461,27.0,Femme,Recherche et Développement,4.0,Licence,1474434.0,Oui,12.0,87.0,2.0,0.0,1.0,Bon,Très satisfait,9.0,Oui
+462,48.0,Homme,Finance,13.0,Licence,3247817.0,Oui,27.0,,12.0,,4.0,Bon,Insatisfait,23.0,Oui
+463,45.0,,Production,27.0,Master,6000000.0,Non,8.0,46.0,3.0,0.0,2.0,Mauvais,Neutre,30.0,Non
+464,29.0,Femme,Production,2.0,Secondaire,574071.0,Oui,19.0,39.0,1.0,1.0,1.0,Moyen,Satisfait,6.0,Oui
+465,45.0,Femme,Ressources Humaines,20.0,Master,4230866.0,Non,18.0,50.0,13.0,4.0,3.0,Excellent,Satisfait,7.0,Oui
+466,53.0,Homme,Logistique,4.0,Secondaire,642632.0,Non,38.0,41.0,2.0,1.0,,Moyen,Satisfait,27.0,Non
+467,60.0,Femme,Ressources Humaines,18.0,Master,4459058.0,Oui,11.0,6.0,9.0,4.0,1.0,Mauvais,Insatisfait,2.0,Oui
+468,26.0,Homme,Production,3.0,Licence,859235.0,Non,14.0,49.0,2.0,0.0,,Moyen,Satisfait,30.0,Oui
+469,23.0,Homme,Informatique,0.0,Secondaire,446664.0,Non,30.0,47.0,0.0,0.0,3.0,Mauvais,Neutre,14.0,Non
+470,30.0,Femme,Finance,12.0,Licence,3336476.0,Non,13.0,83.0,1.0,0.0,5.0,Mauvais,Neutre,15.0,Non
+471,48.0,,Ressources Humaines,9.0,Master,2655270.0,Oui,10.0,90.0,5.0,1.0,1.0,Excellent,Très satisfait,3.0,Oui
+472,55.0,Femme,Logistique,24.0,Master,5392523.0,Non,,5.0,14.0,3.0,5.0,Moyen,Satisfait,,Oui
+473,44.0,Homme,Marketing,17.0,,,Non,26.0,90.0,9.0,0.0,1.0,Moyen,Insatisfait,5.0,Non
+474,40.0,Homme,Support Client,7.0,Master,1475599.0,Oui,10.0,,4.0,1.0,1.0,Excellent,Satisfait,0.0,Oui
+475,55.0,Femme,Production,7.0,Doctorat,2488903.0,Oui,37.0,,1.0,1.0,5.0,Excellent,Très insatisfait,3.0,Oui
+476,29.0,Homme,Recherche et Développement,6.0,Master,2268093.0,Non,33.0,108.0,4.0,2.0,1.0,Moyen,Très insatisfait,10.0,Non
+477,56.0,Femme,Marketing,,Licence,3363619.0,Oui,18.0,56.0,4.0,0.0,2.0,Moyen,Neutre,11.0,Oui
+478,28.0,Homme,Commercial,2.0,Licence,707858.0,Non,5.0,30.0,1.0,1.0,1.0,Bon,Très satisfait,,Oui
+479,43.0,Homme,Administration,5.0,Licence,1041990.0,Non,37.0,,3.0,0.0,4.0,Bon,Insatisfait,28.0,Non
+480,54.0,Homme,Logistique,32.0,Doctorat,6000000.0,Non,27.0,89.0,22.0,6.0,1.0,,Satisfait,4.0,Oui
+481,54.0,Femme,Recherche et Développement,22.0,Licence,5821834.0,Non,,39.0,5.0,2.0,4.0,Bon,Insatisfait,,Non
+482,55.0,,Administration,,Licence,3061758.0,Oui,34.0,111.0,3.0,2.0,1.0,Bon,Satisfait,28.0,Oui
+483,37.0,Femme,Logistique,0.0,Licence,405676.0,Oui,39.0,44.0,0.0,0.0,,Moyen,Neutre,20.0,Non
+484,58.0,Homme,Informatique,24.0,Licence,6000000.0,Non,7.0,76.0,17.0,,5.0,,,15.0,Oui
+485,51.0,Femme,Support Client,16.0,Doctorat,,Non,6.0,48.0,8.0,3.0,2.0,Moyen,Insatisfait,12.0,Oui
+486,43.0,Homme,Marketing,0.0,Master,783608.0,Non,10.0,86.0,0.0,0.0,2.0,Bon,Satisfait,12.0,Oui
+487,42.0,Femme,Finance,14.0,Master,4065427.0,,,19.0,0.0,0.0,3.0,Bon,Très satisfait,,Oui
+488,51.0,Femme,Logistique,1.0,Secondaire,408117.0,Oui,3.0,100.0,0.0,0.0,5.0,Très mauvais,Satisfait,26.0,Non
+489,56.0,Femme,Finance,13.0,Master,4572226.0,Oui,24.0,117.0,12.0,4.0,5.0,Moyen,Neutre,6.0,Oui
+490,31.0,Femme,Support Client,4.0,Secondaire,566643.0,Non,11.0,116.0,,1.0,2.0,Moyen,,7.0,Oui
+491,32.0,Femme,Production,7.0,Secondaire,1228332.0,Oui,25.0,,6.0,2.0,5.0,Moyen,,12.0,Oui
+492,42.0,Femme,Commercial,7.0,Master,2271861.0,Non,37.0,,5.0,2.0,2.0,Bon,Satisfait,22.0,Oui
+493,44.0,Homme,Marketing,18.0,Licence,3918462.0,Non,11.0,27.0,16.0,4.0,5.0,Moyen,Très satisfait,26.0,Oui
+494,54.0,Homme,Support Client,5.0,Licence,1187658.0,Non,36.0,40.0,4.0,0.0,1.0,Bon,Très insatisfait,15.0,Non
+495,60.0,Femme,Support Client,5.0,Doctorat,1609361.0,,23.0,65.0,5.0,0.0,2.0,Très mauvais,Neutre,29.0,Non
+496,49.0,Femme,Informatique,2.0,Secondaire,848364.0,Oui,15.0,24.0,0.0,1.0,2.0,Bon,Insatisfait,28.0,Non
+497,36.0,Femme,Administration,6.0,Licence,1743751.0,Non,12.0,57.0,4.0,1.0,4.0,Bon,Satisfait,30.0,Oui
+498,39.0,Homme,Commercial,18.0,Doctorat,5933987.0,Non,24.0,113.0,8.0,3.0,5.0,Bon,Satisfait,3.0,Oui
+499,44.0,Homme,Marketing,7.0,Secondaire,1488252.0,Oui,3.0,40.0,0.0,0.0,5.0,Moyen,Neutre,7.0,Oui
+500,,Homme,Production,9.0,Master,1908744.0,Non,10.0,5.0,1.0,0.0,2.0,Excellent,Neutre,15.0,Oui
+501,43.0,Femme,Recherche et Développement,12.0,Licence,2912806.0,Non,15.0,92.0,12.0,5.0,1.0,Excellent,Satisfait,,Oui
+502,40.0,Homme,Logistique,18.0,Licence,3273162.0,Oui,39.0,0.0,16.0,4.0,4.0,Moyen,Neutre,24.0,Non
+503,53.0,Femme,Administration,6.0,Master,2230929.0,Non,4.0,73.0,6.0,1.0,5.0,,Insatisfait,13.0,Oui
+504,49.0,Homme,Logistique,14.0,Master,3501730.0,Non,1.0,98.0,9.0,0.0,3.0,Bon,Très insatisfait,24.0,Non
+505,31.0,Femme,,12.0,Licence,3389712.0,Oui,30.0,82.0,5.0,0.0,5.0,Bon,Neutre,3.0,Oui
+506,40.0,Homme,,10.0,Master,2586686.0,Non,19.0,76.0,0.0,0.0,1.0,Bon,Neutre,12.0,Oui
+507,23.0,Homme,Informatique,0.0,Licence,579742.0,Non,21.0,81.0,0.0,1.0,4.0,Mauvais,Satisfait,5.0,Oui
+508,45.0,Femme,Administration,,Secondaire,338686.0,Non,24.0,58.0,0.0,1.0,2.0,,Satisfait,8.0,Non
+509,28.0,Femme,Finance,8.0,Secondaire,1426015.0,Non,38.0,91.0,0.0,1.0,1.0,Moyen,Satisfait,24.0,Non
+510,51.0,Homme,Ressources Humaines,16.0,,3820482.0,Non,10.0,35.0,14.0,2.0,3.0,Excellent,Neutre,8.0,Oui
