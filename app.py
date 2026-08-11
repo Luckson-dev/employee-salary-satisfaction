@@ -194,7 +194,7 @@ with st.form("classification_form"):
         
         try:
             pred_raw = model.predict(input_df)
-            pred_value = pred_raw[0]
+            pred_value = int(pred_raw[0])
             
             if isinstance(pred_value, (int, float)):
                 if 0 < pred_value < 1:
@@ -203,7 +203,7 @@ with st.form("classification_form"):
                     label = "Oui" if pred_value == 1 else "Non"
             else:
                 label = str(pred_value)
-                
+
             st.session_state['prediction_result'] = label
             
         except Exception as e:

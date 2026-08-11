@@ -21,9 +21,6 @@ class RENTPrediction:
         numeric_cols = df.select_dtypes(include=["number"]).columns
         category_cols = df.select_dtypes(include=["object"]).columns
 
-        print(f"Numeric cols : {numeric_cols}")
-        print(f"Category cols : {category_cols}")
-
         for col, val in self.mean.items():
             if col in list(numeric_cols):
                 df[col] = df[col].fillna(val)
